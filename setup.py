@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='searchi',
-     version='0.2',
+     version='0.3',
      scripts=['searchi'] ,
      author="Mahfuzur Rahman",
      author_email="mahfuz.sust001@gmail.com",
